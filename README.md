@@ -5,7 +5,7 @@ Aplikasi Menu:
 - Dashboard
 - Customer
 - Barang : Data Barang, Barang Masuk & Barang Keluar
-- User
+- User (ADMIN & STAFF)
 - Laporan : Laporan Data Barang, Laporan Barang Masuk & Laporan Barang Keluar
 
 Fitur:
