@@ -12,5 +12,3 @@ Fitur:
 - Cetak Berkas/Laporan dengan FPDF (Tapi download sendiri untuk fpdf nya)
 
 More: Framework BOOSTRAP v5
-
-NOTE: Kurang fpdf untuk cetak laporan, anda bisa download sendiri atau searching di google.
