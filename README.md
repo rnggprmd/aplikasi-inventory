@@ -9,6 +9,6 @@ Aplikasi Menu:
 - Laporan : Laporan Data Barang, Laporan Barang Masuk & Laporan Barang Keluar
 
 Fitur:
-- Cetak Berkas/Laporan dengan FPDF (Tapi download sendiri untuk fpdf nya)
+- Cetak Berkas/Laporan dengan FPDF
 
 More: Framework BOOSTRAP v5
